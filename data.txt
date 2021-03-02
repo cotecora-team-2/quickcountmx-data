@@ -1,0 +1,7 @@
+- path: tiempos_simulaciones
+  name: tiempos_simulaciones
+  rows: 8187000
+  cols: 5
+  description: Simulaciones de tiempos de llegada para todas las casillas de Colima,
+    Nayarit, Michoacan, Chihuahua y Zacatecas
+  type: table

@@ -1,0 +1,17 @@
+path:
+- https://api.github.com/repos/cotecora-team-2/quickcountmx-data/releases/assets/32839697
+- https://api.github.com/repos/cotecora-team-2/quickcountmx-data/releases/assets/32840289
+rows: 8187000
+cols: 5
+columns:
+  CLAVE_CASILLA: character
+  time: numeric
+  status: numeric
+  state_abbr: character
+  id: integer
+description: Simulaciones de tiempos de llegada para todas las casillas de Colima,
+  Nayarit, Michoacan, Chihuahua y Zacatecas
+type: table
+filenames:
+  https://api.github.com/repos/cotecora-team-2/quickcountmx-data/releases/assets/32839697: data.csv
+  https://api.github.com/repos/cotecora-team-2/quickcountmx-data/releases/assets/32840289: data.rds
