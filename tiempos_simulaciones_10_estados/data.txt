@@ -1,6 +1,6 @@
 path:
-- https://api.github.com/repos/cotecora-team-2/quickcountmx-data/releases/assets/33621543
-- https://api.github.com/repos/cotecora-team-2/quickcountmx-data/releases/assets/33621636
+- https://api.github.com/repos/cotecora-team-2/quickcountmx-data/releases/assets/33645784
+- https://api.github.com/repos/cotecora-team-2/quickcountmx-data/releases/assets/33645945
 rows: 6914400
 cols: 5
 columns:
@@ -9,10 +9,11 @@ columns:
   status: numeric
   state_abbr: character
   id: integer
-description: "Simulaciones de tiempos de llegada para todas las casillas de \n    Baja
-  California, Baja California Sur, Sonora, Sinaloa, Nuevo León, San Luis Potosí,\n
-  \   Querétaro, Guerrero, Tlaxcala, Campeche"
+description: |-
+  Simulaciones de tiempos de llegada para todas las casillas de
+      Baja California, Baja California Sur, Sonora, Sinaloa, Nuevo León, San Luis Potosí,
+      Querétaro, Guerrero, Tlaxcala, Campeche
 type: table
 filenames:
-  https://api.github.com/repos/cotecora-team-2/quickcountmx-data/releases/assets/33621543: data.csv
-  https://api.github.com/repos/cotecora-team-2/quickcountmx-data/releases/assets/33621636: data.rds
+  https://api.github.com/repos/cotecora-team-2/quickcountmx-data/releases/assets/33645784: data.csv
+  https://api.github.com/repos/cotecora-team-2/quickcountmx-data/releases/assets/33645945: data.rds

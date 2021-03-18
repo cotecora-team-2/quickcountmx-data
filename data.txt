@@ -9,7 +9,8 @@
   name: tiempos_simulaciones_10_estados
   rows: 6914400
   cols: 5
-  description: "Simulaciones de tiempos de llegada para todas las casillas de \n    Baja
-    California, Baja California Sur, Sonora, Sinaloa, Nuevo León, San Luis Potosí,\n
-    \   Querétaro, Guerrero, Tlaxcala, Campeche"
+  description: |-
+    Simulaciones de tiempos de llegada para todas las casillas de
+        Baja California, Baja California Sur, Sonora, Sinaloa, Nuevo León, San Luis Potosí,
+        Querétaro, Guerrero, Tlaxcala, Campeche
   type: table
